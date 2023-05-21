@@ -1,12 +1,5 @@
 
-
-
-
-https://github.com/divyank25/real-estate/assets/73693350/872e9217-c7b7-4dc4-a96a-0a6238ea80a2
-
-
-https://github.com/divyank25/real-estate/assets/73693350/041034ca-5688-47a9-a7a6-890524a13784
-
+https://real-estate-application.pages.dev/
 
 
 
@@ -26,6 +19,12 @@ This repository contains the frontend code for a real estate web application. Th
 - JavaScript: Used for implementing interactive features and handling user interactions.
 
 
+
+https://github.com/divyank25/real-estate/assets/73693350/51f647f4-4bf4-44db-8ce0-857d7ca8fa58
+
+
+
+
 ## Contributing
 
 If you'd like to contribute to this project, you can follow these steps:
@@ -35,6 +34,12 @@ If you'd like to contribute to this project, you can follow these steps:
 - Make your changes and commit them with descriptive commit messages.
 - Push your changes to your forked repository.
 - Submit a pull request to the original repository
+
+
+
+https://github.com/divyank25/real-estate/assets/73693350/378f9cdd-a2db-40c2-9566-1696b9a9e00a
+
+
 
 ## Contact
 If you have any questions or suggestions regarding this project, please feel free to contact the project owner at divyanktripathi12@gmail.com.com.
